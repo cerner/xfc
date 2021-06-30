@@ -12,6 +12,7 @@ Cerner Corporation
 - Roxanne Calderon [@foxannefoxanne]
 - Yusuf Ali [@yusufali2205]
 - Jake Varness [@jvarness]
+- Shriniket Sarkar [@shriniketsarkar]
 
 [@mhemesath]: https://github.com/mhemesath
 [@kafkahw]: https://github.com/kafkahw
@@ -25,3 +26,4 @@ Cerner Corporation
 [@foxannefoxanne]: https://github.com/foxannefoxanne
 [@yusufali2205]: https://github.com/yusufali2205
 [@jvarness]: https://github.com/jvarness
+[@shriniketsarkar]: https://github.com/shriniketsarkar

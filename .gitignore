@@ -15,5 +15,5 @@ build
 doc
 lib
 dist
-
+!src/lib
 .DS_Store

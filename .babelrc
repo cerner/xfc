@@ -3,7 +3,8 @@
     ["@babel/preset-env", {
       "targets": {
         "browsers": ["last 2 versions", "iOS >=10", "ie >= 10"]
-      }
+      },
+      "useBuiltIns": "usage"
     }]
   ],
   "plugins": [
